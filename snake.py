@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
+"""
+SNAKE GAME - using Python 3
+Author: Marcos Wilson Rodrigues de Lima
 """
 
 #Importando as bibliotecas
